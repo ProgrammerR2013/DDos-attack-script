@@ -7,8 +7,7 @@ Short description of package/script:
 - You need to import sys, os, time, socket, random, and datetime.
 
 Setup instructions:
-
-You just need to do run this command in the shell: "pip install -r requirements.txt", and then run the Python DDOS_Attack_Script.py file. [Python 3 must installed for use of this script.
+Run the Python DDOS_Attack_Script.py file. [Python 3 must installed for use of this script.] Make sure the packages are installed.
 
 This Script Is Only for DDOS attack use only!
 
