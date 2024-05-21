@@ -1,11 +1,6 @@
 # DDos-attack-script
 EDUCATIONAL PURPOSES ONLY
 
-Short description of package/script:
-
-- This Script is simple to setup.
-- You need to import sys, os, time, socket, random, and datetime.
-
 Setup instructions:
 Run the Python DDOS_Attack_Script.py file. [Python 3 must installed for use of this script.] Make sure the packages are installed.
 
